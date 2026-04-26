@@ -1,6 +1,6 @@
 # FlashCEV — Official Releases
 
-This repository hosts the official installer and automatic update packages for **FlashCEV**, a desktop application by [Calene](https://flashcev.cl).
+This repository hosts the official installer and automatic update packages for **FlashCEV**, a desktop application by [FlashCEV](https://flashcev.cl).
 
 > **Source code is not published here.** This repository exists solely to distribute releases and deliver automatic in-app updates.
 
@@ -15,7 +15,7 @@ Get the latest installer from the [Releases](https://github.com/Sabmus/flashcev-
 
 ## Support
 
-For help, questions, or bug reports, visit [flashcev.cl](https://flashcev.cl) or contact us at soporte@flashcev.cl.
+For help, questions, or bug reports, visit [flashcev.cl](https://flashcev.cl) or contact us at support@flashcev.cl.
 
 ## Automatic Updates
 
